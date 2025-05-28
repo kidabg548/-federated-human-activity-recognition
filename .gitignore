@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.npz
+.ipynb_checkpoints/
+.env
+venv/
+.venv
+data/UCI HAR Dataset/
